@@ -12,3 +12,4 @@ C:\Users\User\Documents\dokumentumok\BMSZC_Neumann_tananyag\C#\PytonDoga_gyak_20
 C:\Users\User\Documents\dokumentumok\BMSZC_Neumann_tananyag\C#\PytonDoga_gyak_2025_10_18\gyak\obj\Debug\net9.0\gyak.pdb
 C:\Users\User\Documents\dokumentumok\BMSZC_Neumann_tananyag\C#\PytonDoga_gyak_2025_10_18\gyak\obj\Debug\net9.0\gyak.genruntimeconfig.cache
 C:\Users\User\Documents\dokumentumok\BMSZC_Neumann_tananyag\C#\PytonDoga_gyak_2025_10_18\gyak\obj\Debug\net9.0\ref\gyak.dll
+C:\Users\User\Documents\dokumentumok\BMSZC_Neumann_tananyag\C#\PytonDoga_gyak_2025_10_18\gyak\obj\Debug\net9.0\gyak.sourcelink.json

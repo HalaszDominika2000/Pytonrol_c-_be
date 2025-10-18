@@ -59,6 +59,23 @@ class Program
     }
     static void primszamE()
     {
+        Console.Write("Adj meg egy számot: ");
+        int szam = Convert.ToInt32(Console.ReadLine());
+        if (szam < 2)
+        {
+            Console.Write($"{szam} nem prímszám.");
+            return;
+        }
+        for (int i = 2; i < szam; i++)
+        { //ameddig i kissebb mint szám adj hozzá plussz elemet itt az i az 2 a szám amit megadott a felhasználo
+            if (szam % i == 0)
+            {
+                Console.Write($"{szam} nem prímszám.");
+                return;
+            }
+
+        }
+        Console.Write($"{szam} prímszám.");
         
     }
 }
