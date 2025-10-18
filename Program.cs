@@ -8,7 +8,8 @@ class Program
         //udvozles(); /*Metodus meghivasa*/
         //hengerszamitas();
         //szamBekeres();
-        primszamE();
+        //primszamE();
+        evszamBekero();
     }
     static void udvozles() /*Ez a metodus*/
     {
@@ -76,6 +77,25 @@ class Program
 
         }
         Console.Write($"{szam} prímszám.");
-        
+
+    }
+    static void evszamBekero()
+    {
+        Console.WriteLine("Mikor volt a Nyugat Romai Birodalom bukasa?");
+        int evszam = Convert.ToInt32(Console.ReadLine());
+        while (evszam != 476)
+        {
+            if (evszam < 476)
+            {
+                Console.WriteLine("Kesobbi datum.");
+            }
+            else
+            {
+                Console.WriteLine("Korabbi datum.");
+            }
+            Console.WriteLine("Mikor volt a Nyugat Romai Birodalom bukasa?");
+            evszam = Convert.ToInt32(Console.ReadLine()); //Dekralácio nem szabad kétszer ezt a sort beilleszteni!!!!!! ebben az esetben az intet leszedem és itt maradhat
+        }
+        Console.WriteLine("Helyes válasz!");
     }
 }
