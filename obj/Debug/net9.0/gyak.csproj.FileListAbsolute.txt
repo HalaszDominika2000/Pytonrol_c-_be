@@ -1,0 +1,14 @@
+C:\Users\User\Documents\dokumentumok\BMSZC_Neumann_tananyag\C#\PytonDoga_gyak_2025_10_18\gyak\obj\Debug\net9.0\gyak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\dokumentumok\BMSZC_Neumann_tananyag\C#\PytonDoga_gyak_2025_10_18\gyak\obj\Debug\net9.0\gyak.AssemblyInfoInputs.cache
+C:\Users\User\Documents\dokumentumok\BMSZC_Neumann_tananyag\C#\PytonDoga_gyak_2025_10_18\gyak\obj\Debug\net9.0\gyak.AssemblyInfo.cs
+C:\Users\User\Documents\dokumentumok\BMSZC_Neumann_tananyag\C#\PytonDoga_gyak_2025_10_18\gyak\obj\Debug\net9.0\gyak.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\dokumentumok\BMSZC_Neumann_tananyag\C#\PytonDoga_gyak_2025_10_18\gyak\bin\Debug\net9.0\gyak.exe
+C:\Users\User\Documents\dokumentumok\BMSZC_Neumann_tananyag\C#\PytonDoga_gyak_2025_10_18\gyak\bin\Debug\net9.0\gyak.deps.json
+C:\Users\User\Documents\dokumentumok\BMSZC_Neumann_tananyag\C#\PytonDoga_gyak_2025_10_18\gyak\bin\Debug\net9.0\gyak.runtimeconfig.json
+C:\Users\User\Documents\dokumentumok\BMSZC_Neumann_tananyag\C#\PytonDoga_gyak_2025_10_18\gyak\bin\Debug\net9.0\gyak.dll
+C:\Users\User\Documents\dokumentumok\BMSZC_Neumann_tananyag\C#\PytonDoga_gyak_2025_10_18\gyak\bin\Debug\net9.0\gyak.pdb
+C:\Users\User\Documents\dokumentumok\BMSZC_Neumann_tananyag\C#\PytonDoga_gyak_2025_10_18\gyak\obj\Debug\net9.0\gyak.dll
+C:\Users\User\Documents\dokumentumok\BMSZC_Neumann_tananyag\C#\PytonDoga_gyak_2025_10_18\gyak\obj\Debug\net9.0\refint\gyak.dll
+C:\Users\User\Documents\dokumentumok\BMSZC_Neumann_tananyag\C#\PytonDoga_gyak_2025_10_18\gyak\obj\Debug\net9.0\gyak.pdb
+C:\Users\User\Documents\dokumentumok\BMSZC_Neumann_tananyag\C#\PytonDoga_gyak_2025_10_18\gyak\obj\Debug\net9.0\gyak.genruntimeconfig.cache
+C:\Users\User\Documents\dokumentumok\BMSZC_Neumann_tananyag\C#\PytonDoga_gyak_2025_10_18\gyak\obj\Debug\net9.0\ref\gyak.dll
